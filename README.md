@@ -23,3 +23,8 @@ Technical Documentation for The Witcher 3 Gwent card minigame clone web app.
 #### Plans
 
 &nbsp;&nbsp;&nbsp;&nbsp; The project starts a simple random multiplayer game with minimalistic graphics and animation on frontend side
+
+
+## Learning Materials
+
+https://www.youtube.com/watch?v=ZCKohZwGZMw&list=PL4cUxeGkcC9iQ7g2eoNXHCJBBBz40S_Lm&index=1
