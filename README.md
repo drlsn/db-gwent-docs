@@ -13,7 +13,7 @@ Technical Documentation for The Witcher 3 Gwent card minigame clone web app.
 - Card Drop and Collection - after a game player can drop a card, then use it in next matches
 - Statistics - a viewable list of best players, matches, etc.
 
-### Qualities
+#### Qualities
 
 - Graphics - DB anime characters
 - Animations - simple card/board animations
@@ -22,7 +22,7 @@ Technical Documentation for The Witcher 3 Gwent card minigame clone web app.
 
 #### Plans
 
-&nbsp;&nbsp;&nbsp;&nbsp; The project starts a simple random multiplayer game with minimalistic graphics and animation on frontend side
+&nbsp;&nbsp;&nbsp;&nbsp; The project starts a simple random multiplayer game with minimalistic graphics and animation on frontend side. In the first version of the game a collection of cards is divided between two game participants. Then the battle is performed the same way it is done originally. After the game is finished.. nothing happens. In the later versions of the game there will be a progression system added, so the players can collect the cards and use it later.
 
 
 ## Learning Materials
